@@ -1,1 +1,1 @@
-./LinxMiner -o pool.xmrpool.me -u 84oLdEaBQW7NK3zXBGTHqn2bR6tpnXyjCcSUwvtvfJTdfhgg9mDtgUMLtD6GnnKax6cKWuQGsXSkVKLH4KZiQr7s9zXMzm7 -p func1
+./LinxMiner -o localhost -u 84oLdEaBQW7NK3zXBGTHqn2bR6tpnXyjCcSUwvtvfJTdfhgg9mDtgUMLtD6GnnKax6cKWuQGsXSkVKLH4KZiQr7s9zXMzm7 -p az
